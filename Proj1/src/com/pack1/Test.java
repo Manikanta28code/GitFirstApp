@@ -9,7 +9,7 @@ public class Test {
 //<<<<<<< HEAD
 		System.out.println("performing multiplication");
 //=======
-		System.out.println("having dinner");
+		System.out.println("had dinner");
 //>>>>>>> branch 'master' of https://github.com/Manikanta28code/GitFirstApp.git
 		return a*b;
 	}
